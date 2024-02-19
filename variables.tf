@@ -1,7 +1,7 @@
-variables "bucket_name"{
+variable "bucket_name"{
     default = ""
 }
 
-variables "project_id"{
+variable "project_id"{
     default = "proj-demo-dev"
 }
